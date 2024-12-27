@@ -46,7 +46,7 @@ cargo build
 Run the server:
 
 ```bash
-cargo run
+./run_server --resolver <ip:port>
 ```
 
 ## Acknowledgments
